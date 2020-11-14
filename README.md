@@ -1,0 +1,1 @@
+# BitHash Exchange utility token
